@@ -19,11 +19,11 @@ Before diving into Android development, ensure you understand basic programming 
 ## **2. Learn Java or Kotlin**
 Android apps can be developed in **Java** or **Kotlin**. While Java is older, **Kotlin is now the preferred language** for Android development.
 
-### Java Resources:
+### Java Resources:👉(https://github.com/dhiraj7kr/AndroidJavaResource)
 - [Codecademy - Learn Java](https://www.codecademy.com/learn/learn-java)
 - [Java Programming and Software Engineering Fundamentals - Coursera](https://www.coursera.org/specializations/java-programming)
 
-### Kotlin Resources:
+### Kotlin Resources:👉(https://github.com/dhiraj7kr/AndroidKotlinResources)
 - [Kotlin Official Documentation](https://kotlinlang.org/docs/home.html)
 - [Google’s Android Kotlin Basics](https://developer.android.com/courses/android-basics-kotlin/course)
 
